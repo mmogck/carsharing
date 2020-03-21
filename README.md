@@ -12,11 +12,11 @@
 - complete database stored in a single cross-platform disk file
 - very small and lightweight
 - self-contained (no extra dependencies required)
-- no seperate server process required (see [backend](abcd))
+- no seperate server process required (see [backend](#Backend))
 - zero configuration / no setup
 - cross-platform (Linux, MacOS, Android, iOS, Win32, WinCE, WinRT)
 
-### <a name="abcd"></a>Backend
+### Backend
 ... programming language (java, php, python, ...) ... our project: python ... reasons ...
 #### possibilities
 - Flask
