@@ -1,0 +1,9 @@
+[submodule ".\\carsharing_api"]
+	path = .\\carsharing_api
+	url = https://github.com/mmogck/carsharing_api.git
+[submodule ".\\carsharing_frontend"]
+	path = .\\carsharing_frontend
+	url = https://github.com/mmogck/carsharing_frontend.git
+[submodule ".\\carsharing_database"]
+	path = .\\carsharing_database
+	url = https://github.com/mmogck/carsharing_database.git
